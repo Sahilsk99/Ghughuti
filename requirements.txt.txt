@@ -1,0 +1,4 @@
+requests
+json
+urllib
+configparser
